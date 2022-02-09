@@ -1,0 +1,59 @@
+#textArea{
+    -fx-background-insets: 0;
+    -fx-background-color: transparent, white, transparent, white;
+}
+ 
+#textArea .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+ 
+#textArea:focused {
+    -fx-background-color: transparent, white, transparent, white;
+}
+.text-field{
+    -fx-background-insets: 0;
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-field .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-field:focused {
+    -fx-background-color: transparent, white, transparent, white;
+}
+#b2{
+    -fx-background-insets: 0;
+    -fx-background-color:transparent;
+}
+
+#b2 .content {
+    -fx-background-color: transparent;
+}
+
+#b2:focused {
+    -fx-background-color: transparent;
+}
+#b3{
+    -fx-background-insets: 0;
+    -fx-background-color:transparent;
+}
+
+#b3 .content {
+    -fx-background-color: transparent;
+}
+
+#b3:focused {
+    -fx-background-color: transparent;
+}
+#b4:focused {
+    -fx-background-color: transparent;
+}
+#b4{
+    -fx-background-insets: 0;
+    -fx-background-color:transparent;
+}
+#b4:hover{
+    -fx-background-color: gray;
+}
+
